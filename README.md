@@ -52,6 +52,7 @@ Custom extensions for Pi Coding Agent are in [`extensions`](extensions):
 
 Custom themes are in [`themes`](themes):
 
+* [`dayowl.json`](themes/dayowl.json) - Light Day Owl-inspired theme.
 * [`nightowl.json`](themes/nightowl.json) - Night Owl-inspired theme.
 
 ## Plumbing Commands
